@@ -6,9 +6,8 @@ Food Menu Backend is a secure RESTful API built with **Next.js API Routes**, **M
 
 ---
 
-# 📸 Preview
-
-![Food Menu Backend Screenshot](https://via.placeholder.com/1200x650.png?text=Food+Menu+Backend)
+## 📸 Preview
+![Food Menu Banner or Screenshot](https://raw.githubusercontent.com/rimi-1234/next-server-foodmenu/main/623680903-89f5de99-70e1-4d70-b530-0d06156dda7b.png)
 
 ---
 
