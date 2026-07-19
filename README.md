@@ -2,7 +2,7 @@
 
 Food Menu Backend is a secure RESTful API built with **Next.js API Routes**, **MongoDB**, and **Mongoose**. It powers the Food Menu application by handling authentication, menu management, database operations, and protected CRUD endpoints. Designed with scalability and security in mind, the backend provides fast API responses and seamless integration with the Next.js frontend.
 
-🌐 **Live Demo:** https://next-js-client-side-lime.vercel.app/
+🌐 **Live API:** [https://react-trade-shift-server.vercel.app]
 
 ---
 
